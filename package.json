@@ -2,7 +2,7 @@
   "name": "CapibaraBot",
   "version": "1.0.0",
   "description": "@AleV",
-  "main": "alev.js",
+  "main": "pato.js",
   "directories": {
     "lib": "lib"
   },
@@ -41,7 +41,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "node alev",
+    "start": "node pato",
     "test": "supervisor index"
   },
   "repository": {
